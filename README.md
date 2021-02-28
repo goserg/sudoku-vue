@@ -1,5 +1,7 @@
 # sudoku
 
+![sudoku](https://raw.githubusercontent.com/goserg/sudoku-vue/master/screenshots/sudoku.gif)
+
 ## Project setup
 ```
 npm install
